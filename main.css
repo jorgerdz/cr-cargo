@@ -1,0 +1,10 @@
+.intro.image-background {
+    background: url('img/truck.png');
+}
+.intro.image-background .overlay {
+  background: #EDEDF4;
+}
+.contact-form{
+  background: #F79D5C;
+  margin: 0;
+}
